@@ -172,7 +172,7 @@ const App = () => {
                                 <div className="w-full md:w-1/3 flex justify-center">
                                     <img
                                         className="rounded-lg shadow-sm w-64 h-64 object-contain bg-transparent "
-                                        src="./src/assets/Abhishek.jpg"
+                                        src="./Abhishek.jpg"
                                         alt="Abhishek Shinde"
                                     />
                                 </div>
